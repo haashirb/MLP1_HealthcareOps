@@ -65,5 +65,3 @@ class HealthcareProj():
             raise ValueError("Path leads to a file that is not in .xlsx, .xls, or .csv format. You provided: {}"\
                 .format(os.path.split(path_to_data)[1]))
         
-    def create_train_test_split(self):
-        
