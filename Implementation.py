@@ -1,6 +1,5 @@
 # Author: Mohammed Haashir Butt
 # Project Implementation File
-#commit change
 
 import pandas as pd 
 import numpy as np 
@@ -68,5 +67,3 @@ class HealthcareProj():
         
     def create_train_test_split(self):
         
-
-
